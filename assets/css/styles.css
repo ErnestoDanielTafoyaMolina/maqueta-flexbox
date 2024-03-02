@@ -59,6 +59,7 @@
         flex-direction: row;
         flex-grow: 1;
     }
+
     section {
         background-color: antiquewhite;
         flex:5;
@@ -71,6 +72,7 @@
         text-align: center;
     }
     article{
+        margin:1rem 0;
         display: flex;
         background-color: aqua;
         justify-content: center;
